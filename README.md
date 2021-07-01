@@ -1,4 +1,4 @@
-# Visualizatin using covid19 airport traffic data from Kaggle
+# Visualization using covid19 airport traffic data from Kaggle
 - Geospatial visualization
 - Interactive boxplot
 - Heatmap
